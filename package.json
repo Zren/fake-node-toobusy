@@ -1,7 +1,7 @@
 {
   "name": "toobusy",
-  "description": "Don't fall over when your Node.JS server is too busy.",
-  "homepage": "https://github.com/lloyd/node-toobusy",
+  "description": "A fake package for lloyd/node-toobusy.",
+  "homepage": "https://github.com/Zren/node-toobusy",
   "version": "0.2.4",
   "dependencies": {
     
@@ -16,7 +16,7 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/lloyd/node-toobusy/issues"
+    "url": "https://github.com/Zren/node-toobusy/issues"
   },
   "licenses": [
     {
@@ -25,7 +25,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/lloyd/node-toobusy.git"
+    "url": "git://github.com/Zren/node-toobusy.git"
   },
   "main": "./index.js",
   "engines": {
